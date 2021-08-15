@@ -1,0 +1,16 @@
+C:\projects\poo-c-sharp\bin\Debug\net5.0\poo-c-sharp.exe
+C:\projects\poo-c-sharp\bin\Debug\net5.0\poo-c-sharp.deps.json
+C:\projects\poo-c-sharp\bin\Debug\net5.0\poo-c-sharp.runtimeconfig.json
+C:\projects\poo-c-sharp\bin\Debug\net5.0\poo-c-sharp.runtimeconfig.dev.json
+C:\projects\poo-c-sharp\bin\Debug\net5.0\poo-c-sharp.dll
+C:\projects\poo-c-sharp\bin\Debug\net5.0\ref\poo-c-sharp.dll
+C:\projects\poo-c-sharp\bin\Debug\net5.0\poo-c-sharp.pdb
+C:\projects\poo-c-sharp\obj\Debug\net5.0\poo-c-sharp.csproj.AssemblyReference.cache
+C:\projects\poo-c-sharp\obj\Debug\net5.0\poo-c-sharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\poo-c-sharp\obj\Debug\net5.0\poo-c-sharp.AssemblyInfoInputs.cache
+C:\projects\poo-c-sharp\obj\Debug\net5.0\poo-c-sharp.AssemblyInfo.cs
+C:\projects\poo-c-sharp\obj\Debug\net5.0\poo-c-sharp.csproj.CoreCompileInputs.cache
+C:\projects\poo-c-sharp\obj\Debug\net5.0\poo-c-sharp.dll
+C:\projects\poo-c-sharp\obj\Debug\net5.0\ref\poo-c-sharp.dll
+C:\projects\poo-c-sharp\obj\Debug\net5.0\poo-c-sharp.pdb
+C:\projects\poo-c-sharp\obj\Debug\net5.0\poo-c-sharp.genruntimeconfig.cache
